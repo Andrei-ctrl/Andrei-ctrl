@@ -40,6 +40,5 @@ Check out my pinned projects below.
 ## 🤝 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/anikinandrei/)
-- [GitHub](https://github.com/Andrei-ctrl)
 
 Thanks for visiting!
