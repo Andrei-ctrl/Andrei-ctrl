@@ -28,7 +28,7 @@ My repositories and experiments reflect an interest in practical development and
 - **Data solutions:** ETL pipelines, reporting, and business intelligence
 - **Emerging approaches:** RPA, data engineering, machine learning, and AI agents
 
-Check out my [repositories](https://github.com/Andrei-ctrl?tab=repositories) and pinned projects below.
+Check out my pinned projects below.
 
 ## 🎯 What I'm exploring next
 
